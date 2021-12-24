@@ -357,10 +357,11 @@ li {
 
 textarea {
   font-family: sans-serif;
-  background-color: rgba(235, 208, 167, 0.3)
+  background-color: rgba(235, 208, 167, 0.3);
 }
 
-input, textarea {
+input,
+textarea {
   padding: 10px;
   width: 100%;
   border-bottom: 1px solid grey;
@@ -371,7 +372,7 @@ input, textarea {
 }
 
 .btn-primary {
-  background-color: #FF6B00;
+  background-color: #ff6b00;
   border: none;
   color: white;
   font-size: 15px;
