@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio
 
 This project is part of the Microverse curriculum for software development and it's meant to be a template for our own portfolio later on.
 Here you will find some projects that I've been doing in the past as well as a contact form, an about section to get to know me a bit better and a list of my skills. Make sure to check it out!

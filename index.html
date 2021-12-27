@@ -221,13 +221,13 @@
       <div class="contact-form">
         <form class="form" action="https://formspree.io/f/mpzbwzaj" method="POST">
           <div class="form-group">
-            <input type="text" class="form-control" id="name" placeholder="Full name" name="name" required/>
+            <input type="text" class="form-control" id="name" placeholder="Full name" name="name" required maxlength="30"/>
           </div>
           <div class="form-group">
             <input type="email" class="form-control" id="email" placeholder="Email address" name="_replyto" required/>
           </div>
           <div class="form-group">
-            <textarea class="form-control" id="message" rows="6" maxlength="500" placeholder="Enter text here" name="_message"></textarea>
+            <textarea class="form-control" id="message" rows="6" maxlength="500" placeholder="Enter text here" name="_message" required></textarea>
           </div>
           <button type="submit" class="btn btn-primary">Get in touch</button>
         </form>
